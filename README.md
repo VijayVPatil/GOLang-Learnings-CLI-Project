@@ -3,8 +3,3 @@ I have created a CLI application for Ticket booking on Go. This is a practice pr
 This application uses several use cases of go like struct, maps, packages, loops that help understand basics of go.
 # From here I am going to share my learnings 
 
-➜  project git:(master) ✗ git status
-On branch master
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        deleted:    names.txt
